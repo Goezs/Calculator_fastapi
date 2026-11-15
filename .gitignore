@@ -153,11 +153,20 @@ activemq-data/
 .env
 .envrc
 .venv
+.venv/
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Node / Frontend dependencies & build output
+node_modules/
+dist/
+.vite/
+coverage/
+*.local
+
 
 # Spyder project settings
 .spyderproject
