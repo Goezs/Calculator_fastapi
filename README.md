@@ -1,3 +1,6 @@
+![functional frontend](assets/frontend_functional.png)
+![functional backend](assets/backend_functional.png)
+
 # Onion Architecture Full-Stack Calculator
 
 A clean, robust, and maintainable academic calculator application demonstrating **Strict Onion Architecture** on the backend with **FastAPI** (Python 3.11+) and a **Modular Component Architecture** on the frontend with **React 18**, **TypeScript**, and **Vite**.
